@@ -51,9 +51,8 @@
 
   * [IMG-0001: Image upload testing - Upload Proof of Ownership Images](Image-Upload-Testing/IMG-0001-upload-proof-ownership-images.md)
   * [IMG-0002: Image upload testing - Upload Inspection Images](Image-Upload-Testing/IMG-0002-upload-inspection-images.md)
-  * [IMG-0003: Image upload testing - Preview Uploaded Images](Image-Upload-Testing/IMG-0003-preview-uploaded-images.md)
-  * [IMG-0004: Image upload testing - Remove Selected Image Before Submit](Image-Upload-Testing/IMG-0004-remove-selected-image.md)
-  * [IMG-0005: Image upload testing - View Uploaded Images in Record Details](Image-Upload-Testing/IMG-0005-view-uploaded-images-record-details.md)
+  * [IMG-0003: Image upload testing - Remove Selected Image Before Submit](Image-Upload-Testing/IMG-0004-remove-selected-image.md)
+  * [IMG-0004: Image upload testing - View Uploaded Images in Record Details](Image-Upload-Testing/IMG-0005-view-uploaded-images-record-details.md)
 
 * [Responsive Design Testing](Responsive-Design-Testing)
 
