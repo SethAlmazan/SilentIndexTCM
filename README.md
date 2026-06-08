@@ -62,9 +62,3 @@
   * [RES-0004: Responsive testing - Record Details Mobile View](Responsive-Design-Testing/RES-0004-record-details-mobile-view.md)
   * [RES-0005: Responsive testing - Reports Mobile View](Responsive-Design-Testing/RES-0005-reports-mobile-view.md)
 
-* [Security Testing](Security-Testing)
-
-  * [SEC-0001: Security testing - Access Dashboard Without Login](Security-Testing/SEC-0001-access-dashboard-without-login.md)
-  * [SEC-0002: Security testing - Access Registration Without Login](Security-Testing/SEC-0002-access-registration-without-login.md)
-  * [SEC-0003: Security testing - Verify User Records Are Protected](Security-Testing/SEC-0003-verify-user-records-protected.md)
-  * [SEC-0004: Security testing - Verify Uploaded Images Access](Security-Testing/SEC-0004-verify-uploaded-images-access.md)
