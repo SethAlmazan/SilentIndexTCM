@@ -45,10 +45,7 @@
 * [Permit Export Testing](Permit-Export-Testing)
 
   * [EXP-0001: Export testing - Export Individual Chainsaw Permit](Permit-Export-Testing/EXP-0001-export-individual-permit.md)
-  * [EXP-0002: Export testing - Verify Exported Microsoft Word File](Permit-Export-Testing/EXP-0002-verify-exported-word-file.md)
-  * [EXP-0003: Export testing - Verify Owner Information in Exported Permit](Permit-Export-Testing/EXP-0003-verify-owner-information.md)
-  * [EXP-0004: Export testing - Verify Chainsaw Information in Exported Permit](Permit-Export-Testing/EXP-0004-verify-chainsaw-information.md)
-  * [EXP-0005: Export testing - Verify Inspection Images in Exported Permit](Permit-Export-Testing/EXP-0005-verify-inspection-images.md)
+  * [EXP-0002: Export testing - Verify Exported Permit Information Matches Chainsaw Records](Permit-Export-Testing/EXP-0002-verify-exported-permit-information.md)
 
 * [Image Upload Testing](Image-Upload-Testing)
 
