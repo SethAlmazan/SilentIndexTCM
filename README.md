@@ -23,7 +23,6 @@
   * [REG-0003: Registration testing - Upload Proof of Ownership Images](Chainsaw-Registration-Testing/REG-0004-upload-proof-ownership-images.md)
   * [REG-0004: Registration testing - Upload Inspection Images](Chainsaw-Registration-Testing/REG-0005-upload-inspection-images.md)
   * [REG-0005: Registration testing - Verify Registration Date and Expiry Date Labels](Chainsaw-Registration-Testing/REG-0006-verify-date-labels.md)
-  * [REG-0006: Registration testing - Submit Additional Registration Details](Chainsaw-Registration-Testing/REG-0007-submit-additional-registration-details.md)
 
 * [Chainsaw Records Testing](Chainsaw-Records-Testing)
 
