@@ -20,11 +20,10 @@
 
   * [REG-0001: Registration testing - Open Registration Form](Chainsaw-Registration-Testing/REG-0001-open-registration-form.md)
   * [REG-0002: Registration testing - Submit Valid Chainsaw Registration](Chainsaw-Registration-Testing/REG-0002-submit-valid-registration.md)
-  * [REG-0003: Registration testing - Submit Registration with Missing Required Fields](Chainsaw-Registration-Testing/REG-0003-submit-missing-required-fields.md)
-  * [REG-0004: Registration testing - Upload Proof of Ownership Images](Chainsaw-Registration-Testing/REG-0004-upload-proof-ownership-images.md)
-  * [REG-0005: Registration testing - Upload Inspection Images](Chainsaw-Registration-Testing/REG-0005-upload-inspection-images.md)
-  * [REG-0006: Registration testing - Verify Registration Date and Expiry Date Labels](Chainsaw-Registration-Testing/REG-0006-verify-date-labels.md)
-  * [REG-0007: Registration testing - Submit Additional Registration Details](Chainsaw-Registration-Testing/REG-0007-submit-additional-registration-details.md)
+  * [REG-0003: Registration testing - Upload Proof of Ownership Images](Chainsaw-Registration-Testing/REG-0004-upload-proof-ownership-images.md)
+  * [REG-0004: Registration testing - Upload Inspection Images](Chainsaw-Registration-Testing/REG-0005-upload-inspection-images.md)
+  * [REG-0005: Registration testing - Verify Registration Date and Expiry Date Labels](Chainsaw-Registration-Testing/REG-0006-verify-date-labels.md)
+  * [REG-0006: Registration testing - Submit Additional Registration Details](Chainsaw-Registration-Testing/REG-0007-submit-additional-registration-details.md)
 
 * [Chainsaw Records Testing](Chainsaw-Records-Testing)
 
