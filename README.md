@@ -33,8 +33,6 @@
   * [REC-0004: Records testing - View Record Details](Chainsaw-Records-Testing/REC-0004-view-record-details.md)
   * [REC-0005: Records testing - Edit Existing Record](Chainsaw-Records-Testing/REC-0005-edit-existing-record.md)
   * [REC-0006: Records testing - Delete Existing Record](Chainsaw-Records-Testing/REC-0006-delete-existing-record.md)
-  * [REC-0007: Records testing - Verify Sticky Columns on Desktop](Chainsaw-Records-Testing/REC-0007-verify-sticky-columns-desktop.md)
-  * [REC-0008: Records testing - Verify Owner Name Sticky Column on Mobile](Chainsaw-Records-Testing/REC-0008-verify-owner-name-sticky-mobile.md)
 
 * [Reports Testing](Reports-Testing)
 
